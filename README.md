@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+6+years+of+Experience+in+Web." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+2+years+of+Experience+in+Web." alt="Typing SVG" /></a>
 </div>
 
 # 💻 Tech Stack:
@@ -21,9 +21,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Tuangpi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/SingTuang)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
