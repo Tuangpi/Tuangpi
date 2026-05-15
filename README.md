@@ -61,11 +61,13 @@ Building scalable web applications with modern technologies and clean architectu
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuangpi&show_icons=true&theme=react&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuangpi&layout=compact&theme=react&hide_border=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuangpi&show_icons=true&theme=react&hide_border=true&count_private=true">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuangpi&layout=compact&theme=react&hide_border=true">
+</div>
 
 ---
 
@@ -101,7 +103,7 @@ Building scalable web applications with modern technologies and clean architectu
 
 # Current Focus
 
-- Building scalable full stack applications
+- Building scalable full-stack applications
 - Improving software architecture and backend engineering skills
 - Learning advanced TypeScript and system design
 - Creating SaaS and side projects
