@@ -61,13 +61,11 @@ Building scalable web applications with modern technologies and clean architectu
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuangpi&show_icons=true&theme=react&hide_border=true&count_private=true">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuangpi&layout=compact&theme=react&hide_border=true">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuangpi&show_icons=true&theme=react&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuangpi&layout=compact&theme=react&hide_border=true)
 
 ---
 
