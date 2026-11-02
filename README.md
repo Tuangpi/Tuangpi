@@ -1,130 +1,96 @@
-<div align="center">
+ <div align="center">
 
 # Tuangpi
 
-### Full Stack Web Developer
+### Full Stack Developer · Software Engineer
 
-Building scalable web applications with modern technologies and clean architecture.
+**Turning ideas into scalable software.**
 
-<p align="center">
-  <a href="https://github.com/Tuangpi">
-    <img src="https://img.shields.io/github/followers/Tuangpi?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Tuangpi">
-    <img src="https://img.shields.io/github/stars/Tuangpi?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
-  </a>
-</p>
+I build modern web applications, design reliable backend systems, and explore better ways to engineer software.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Tuangpi)
+[![Profile](https://img.shields.io/badge/Developer-Portfolio-blue?style=for-the-badge)](https://github.com/Tuangpi)
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-- Full Stack Web Developer
-- Passionate about scalable backend systems and modern frontend development
-- Focused on clean architecture, maintainable code, and performance
-- Currently working with Laravel, React, TypeScript, and modern web technologies
-- Interested in software engineering, SaaS products, and passive income businesses
+I'm a Full Stack Developer who enjoys building software that solves real-world problems.
 
----
+My interests go beyond writing code. I enjoy understanding how systems work, designing maintainable architectures, and turning ideas into products.
 
-# Tech Stack
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- Building scalable full-stack applications.
+- Designing clean and maintainable backend architectures.
+- Exploring software engineering best practices.
+- Learning AI Agent Engineering and automation.
+- Building SaaS products and independent projects.
 
 ---
 
-## Backend
+## Technologies & Tools
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+### Frontend Development
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## Database & Cloud
+### Backend Development
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
----
+### Database & Infrastructure
 
-# GitHub Stats
-
-<div align="center">
-  <img height="180em" src="./profile/stats.svg">
-  <img height="180em" src="./profile/top-langs.svg">
-</div>
-
----
-
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuangpi&theme=react&hide_border=true" />
-
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
 ---
 
-# Contribution Graph
+## What I'm Exploring
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuangpi&theme=react-dark&hide_border=true" />
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tuangpi&theme=algolia&no-frame=true&row=1&column=7" />
-
-</div>
+| Area | Focus |
+|---|---|
+| Software Engineering | Clean Architecture, SOLID, Design Patterns |
+| Backend Engineering | Scalability, Performance, System Design |
+| AI Engineering | AI Agents, LLMs, Automation |
+| DevOps | CI/CD, Linux, Docker, Deployment |
+| Product Development | SaaS, Business Automation, Side Projects |
 
 ---
 
-# Current Focus
+## My Development Philosophy
 
-- Building scalable full-stack applications
-- Improving software architecture and backend engineering skills
-- Learning advanced TypeScript and system design
-- Creating SaaS and side projects
-
----
-
-# Connect With Me
-
-<p align="left">
-<a href="https://github.com/Tuangpi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
+- **Simplicity:** Prefer simple solutions over unnecessary complexity.
+- **Maintainability:** Write code that developers can understand and extend.
+- **Scalability:** Design systems with future growth in mind.
+- **Continuous Learning:** Keep improving engineering skills through building.
 
 ---
 
 <div align="center">
 
-### “Code should be simple, scalable, and maintainable.”
+### Let's Build Something Meaningful
+
+[![GitHub](https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tuangpi)
+
+<br/>
+
+*Build. Learn. Improve. Repeat.*
 
 </div>
