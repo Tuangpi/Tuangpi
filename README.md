@@ -11,7 +11,7 @@ I build modern web applications, design reliable backend systems, and explore be
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Tuangpi)
-[![Profile](https://img.shields.io/badge/Developer-Portfolio-blue?style=for-the-badge)](https://github.com/Tuangpi)
+[![Profile](https://img.shields.io/badge/Developer-Portfolio-blue?style=for-the-badge)](https://m-yportfolio.pages.dev)
 
 </div>
 
@@ -42,6 +42,8 @@ My interests go beyond writing code. I enjoy understanding how systems work, des
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
 ### Backend Development
 
